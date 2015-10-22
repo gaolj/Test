@@ -31,6 +31,6 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="Read.txt" />
+    <Text Include="ReadMe.txt" />
   </ItemGroup>
 </Project>
