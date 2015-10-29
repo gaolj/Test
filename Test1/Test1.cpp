@@ -9,3 +9,7 @@ int main()
     return 0;
 }
 
+//
+#ifndef 1
+
+#endif // !1
